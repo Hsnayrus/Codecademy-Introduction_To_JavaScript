@@ -15,4 +15,21 @@
 console.log(5);
 ```
 * You might have noticed a semicolon<b><i>(i)</i></b> at the end of the statement. Semicolons in JavaScript are _optional_, however, it is recommended to use semicolons.
-	
+
+# Comments
+
+* Single line comments can be made using `//`
+```
+// This runs
+console.log(53) // this runs
+// It still runs
+```
+* Multi-line comments can be made using `/* */`. Anything between the slash-star and star-slash is a comment.
+```
+/*
+This
+is
+a multiline
+comment.
+*/
+```	
