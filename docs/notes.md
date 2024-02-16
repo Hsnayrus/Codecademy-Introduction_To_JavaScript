@@ -10,6 +10,7 @@
 
 ## Console
 
+* The _console_ is a panel that displays important messages, like [errors](https://www.codecademy.com/resources/docs/javascript/errors), for developers.
 * The `console` keyword in JavaScript is an object which contains various functions and other data. 
 * One of these functions is `.log()`, which helps print or log something to the console.
 * The `console.log()` method is the JavaScript equivalent of python's `print()` function or C++'s `std::cout` function.
