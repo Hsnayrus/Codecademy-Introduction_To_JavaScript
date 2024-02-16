@@ -38,6 +38,7 @@ comment.
 
 ## Data Types
 
+* Detail explanations can be found [here](https://www.codecademy.com/resources/docs/javascript/data-types?page_ref=catalog).
 * There are 8 fundamental data types in JavaScript
 	* Number
 		* Any number including decimal numbers. E.g. 1, 2, 5, 5891.23, 1299
@@ -52,4 +53,3 @@ comment.
 	* Undefined
 		* Has the values of `undefined`, which denotes the non-existence of a value
 		* Is different than `null`, even though it defines the absence of a value
-	
