@@ -6,6 +6,7 @@
 ## What is JavaScript?
 
 * JavaScript is a powerful language which helps build dynamic web pages.
+* A cheatsheet to this course material can be found [here](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet).
 
 ## Console
 
