@@ -20,6 +20,7 @@ console.log(5);
 
 ## Comments
 
+* More about comments can be found [here](https://www.codecademy.com/resources/docs/javascript/comments?page_ref=catalog).
 * Single line comments can be made using `//`
 ```
 // This runs
